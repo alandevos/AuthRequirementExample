@@ -34,6 +34,8 @@ bld/
 [Pp]roperties/
 launchSettings.json
 
+# DNX
+project.lock.json
 artifacts/
 
 # MSTest test Results
